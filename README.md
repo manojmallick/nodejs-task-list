@@ -1,4 +1,6 @@
-# nodejs-task-list
+# nodejs-task-list : 
+
+14th March 2024
 - Creating the Project: Begin by setting up a new Express project.
 
 - Adding a Sample GET API: Implement a GET API that returns a list of static details from a JSON file. This will involve creating a route in Express to handle the GET request and reading data from a JSON file to send back as a response.
